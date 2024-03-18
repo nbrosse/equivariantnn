@@ -1,0 +1,2 @@
+# equivariantnn
+Equivariant neural networks
